@@ -6,10 +6,12 @@ Repository containing a curated list of online resources in the topics of
 - [Programming & High-Performance Computing](#programming--high-performance-computing)
 - [Scientific Writing](#scientific-writing)
 
-Please [submit a PR](https://github.com/b-fg/learning-resources/compare) for contributing to the list.
+Please [submit a PR](https://github.com/b-fg/learning-resources/compare) to contribute to the list.
 
 ## Computational Fluid Dynamics
-- [CFD: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)
+- [Notes on CFD: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)
+- [12 steps to Navier-Stokes](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
+- [Fluid Mechanics 101](https://www.youtube.com/@fluidmechanics101)
 - [Wall modelling for LES](https://wmles.umd.edu/)
 
 ## Machine Learning

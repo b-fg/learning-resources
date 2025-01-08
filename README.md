@@ -30,7 +30,7 @@ Please [submit a PR](https://github.com/b-fg/learning-resources/compare) to cont
 - [Julia for HPC](https://jblaschke.github.io/HPC-Julia/)
 
 ## Scientific Writing
-- [Latex Advice](https://github.com/dspinellis/latex-advices)
+- [Latex Advice](https://github.com/dspinellis/latex-advice)
 - [Guidelines for writing papers](https://github.com/jerabaul29/guidelines_writing_papers)
 - [Writing a scientific article](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
 - [Zotero introduction](https://aweymo-ui.github.io/zotero_intro/)

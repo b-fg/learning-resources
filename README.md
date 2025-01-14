@@ -1,6 +1,6 @@
 # Learning Resources
 
-Repository containing a curated list of online resources in the topics of
+Repository containing a curated list of free online resources in the topics of
 - [Computational Fluid Dynamics](#computational-fluid-dynamics)
 - [Machine Learning](#machine-learning)
 - [Programming & High-Performance Computing](#programming--high-performance-computing)
@@ -34,5 +34,5 @@ Please [submit a PR](https://github.com/b-fg/learning-resources/compare) to cont
 - [Guidelines for writing papers](https://github.com/jerabaul29/guidelines_writing_papers)
 - [Writing a scientific article](https://doi.org/10.1016/j.eurger.2015.08.005)
 - [Zotero introduction](https://aweymo-ui.github.io/zotero_intro/)
-- Bibliography tools: [doi2bib](https://www.doi2bib.org/), [zref](https://zbib.org/)
+- Bibliography tools: [zotero](https://www.zotero.org/), [zref](https://zbib.org/), [doi2bib](https://www.doi2bib.org/)
 - Presentation tools: [quarto](https://quarto.org/docs/presentations/revealjs/)

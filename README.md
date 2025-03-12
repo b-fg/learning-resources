@@ -29,6 +29,7 @@ Please [submit a PR](https://github.com/b-fg/learning-resources/compare) to cont
 - [Differentiable Programming for Differential Equations: A Review](https://arxiv.org/abs/2406.09699)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Julia for HPC](https://jblaschke.github.io/HPC-Julia/)
+- [Modern Julia Workflows](https://modernjuliaworkflows.org/)
 
 ## Scientific Writing
 - [Latex Advice](https://github.com/dspinellis/latex-advice)

@@ -27,6 +27,7 @@ Please [submit a PR](https://github.com/b-fg/learning-resources/compare) to cont
 - [Free Programming Books: Parallel Programming](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#parallel-programming)
 - [Computer Science Readings](https://github.com/amilajack/reading)
 - [Differentiable Programming for Differential Equations: A Review](https://arxiv.org/abs/2406.09699)
+- [SciMLBook](https://github.com/SciML/SciMLBook)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Julia for HPC](https://jblaschke.github.io/HPC-Julia/)
 - [Modern Julia Workflows](https://modernjuliaworkflows.org/)

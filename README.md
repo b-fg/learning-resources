@@ -31,6 +31,7 @@ Please [submit a PR](https://github.com/b-fg/learning-resources/compare) to cont
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Julia for HPC](https://jblaschke.github.io/HPC-Julia/)
 - [Modern Julia Workflows](https://modernjuliaworkflows.org/)
+- [Zero2Hero-JuliaWorkshop](https://github.com/Datseris/Zero2Hero-JuliaWorkshop)
 
 ## Scientific Writing
 - [Latex Advice](https://github.com/dspinellis/latex-advice)

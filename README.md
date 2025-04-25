@@ -14,6 +14,7 @@ Please [submit a PR](https://github.com/b-fg/learning-resources/compare) to cont
 - [Fluid Mechanics 101](https://www.youtube.com/@fluidmechanics101)
 - [Wall modelling for LES](https://wmles.umd.edu/)
 - [Riemann Problems and Jupyter Solutions](https://github.com/rjleveque/riemann_book)
+- [What-is](https://github.com/higham/what-is)
 
 ## Machine Learning
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)

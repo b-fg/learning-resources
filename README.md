@@ -9,12 +9,13 @@ Repository containing a curated list of free online resources in the topics of
 Please [submit a PR](https://github.com/b-fg/learning-resources/compare) to contribute to the list.
 
 ## Computational Fluid Dynamics & Numerical Methods
-- [Notes on CFD: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)
-- [12 steps to Navier-Stokes](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
-- [Fluid Mechanics 101](https://www.youtube.com/@fluidmechanics101)
-- [Wall modelling for LES](https://wmles.umd.edu/)
-- [Riemann Problems and Jupyter Solutions](https://github.com/rjleveque/riemann_book)
-- [What-is](https://github.com/higham/what-is)
+- [Notes on CFD: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/): Online book on general CFD including governing equations, numerical methods, linear solvers, turbulence modelling etc.
+- [12 steps to Navier-Stokes](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/): Tutorial to build a Navier--Stokes solver using finite differences.
+- [Fluid Mechanics 101](https://www.youtube.com/@fluidmechanics101): YouTube channel on general fluid mechanics.
+- [Wall modelling for LES](https://wmles.umd.edu/): Webpage explaining basics of wall modelling.
+- [Riemann Problems and Jupyter Solutions](https://www.clawpack.org/riemann_book/html/Index.html): Online book on Riemann solvers.
+- [What-is](https://github.com/higham/what-is): Collection of articles explaining concepts of numerical analysis including matrix factorizations, floating point operations, among others.
+- [UK Fluids Network resources](https://fluids.ac.uk/researcher-resources): Curated list of learning resources (videos, slides, code) for general CFD topics including flow control, ROM, turbulence, among others.
 
 ## Machine Learning
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)

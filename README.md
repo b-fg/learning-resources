@@ -27,14 +27,14 @@ Webpage explaining fundamental concepts of wall modelling.
 Collection of articles explaining concepts of numerical analysis including matrix factorizations, floating point operations, etc.
 
 ## Machine Learning
-- [Mathematics For Machine Learning](https://mml-book.github.io/)<br>
-Book on general machine learning concepts, from linear algebra to optimization.
 - [Free Programming Books: Machine Learning](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#machine-learning)<br>
 Index of freely available resources in machine learning.
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)<br>
 Website providing visual explanations of fundamental concepts in statistics, machine learning, and optimization.
 - [Machine learning from scratch in Julia](https://github.com/odsl-team/julia-ml-from-scratch)<br>
 Tutorial on implementing an artificial neural network from scratch in Julia, including gradient descent and automatic differentiation.
+- [Mathematics For Machine Learning](https://mml-book.github.io/)<br>
+Book on general machine learning concepts, from linear algebra to optimization.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) | [\[PDF version\]](https://github.com/antonvladyka/neuralnetworksanddeeplearning.com.pdf)<br>
 Online book on deep learning.
 

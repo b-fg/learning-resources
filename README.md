@@ -11,6 +11,8 @@ Please [submit a PR](https://github.com/b-fg/learning-resources/compare) to cont
 ## Computational Fluid Dynamics & Numerical Methods
 - [12 steps to Navier-Stokes](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)<br>
 Tutorial to build a Navier–Stokes solver using finite differences.
+- [Boundary layer theory](https://francescoambrogi.github.io/courses/my-blayer-course/)<br>
+Webpage on Prandtl boundary layer theory, and the analytical solution from Blasius (Prandtl's PhD student).
 - [Fluid Mechanics 101](https://www.youtube.com/@fluidmechanics101)<br>
 YouTube channel on general fluid mechanics.
 - [Notes on CFD: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)<br>

@@ -28,25 +28,28 @@ Collection of articles explaining concepts of numerical analysis including matri
 
 ## Machine Learning
 - [Free Programming Books: Machine Learning](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#machine-learning)<br>
-Index of freely available resources in machine learning.
+List of freely available resources in machine learning.
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)<br>
 Website providing visual explanations of fundamental concepts in statistics, machine learning, and optimization.
 - [Machine learning from scratch in Julia](https://github.com/odsl-team/julia-ml-from-scratch)<br>
 Tutorial on implementing an artificial neural network from scratch in Julia, including gradient descent and automatic differentiation.
+- [Machine learning technical blogs](https://github.com/antoinebrl/awesome-ml-blogs)<br>
+List of awesome machine learning technical blogs from research to deployment
 - [Mathematics For Machine Learning](https://mml-book.github.io/)<br>
 Book on general machine learning concepts, from linear algebra to optimization.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) | [\[PDF version\]](https://github.com/antonvladyka/neuralnetworksanddeeplearning.com.pdf)<br>
 Online book on deep learning.
 
+
 ## Programming & High-Performance Computing
 - [Computer Science Readings](https://github.com/amilajack/reading)<br>
-Index of freely available resources in computer science, including algorithms, parallel programming, functional programming, machine learning, etc.
+List of freely available resources in computer science, including algorithms, parallel programming, functional programming, machine learning, etc.
 - [Differentiable Programming for Differential Equations: A Review](https://arxiv.org/abs/2406.09699)<br>
 Review article on differentiable programming, including finite differences, automatic differentiation, symbolic differentiation, etc.
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)<br>
-Index of freely available resources in programming.
+List of freely available resources in programming.
 - [Free Programming Books: Parallel Programming](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#parallel-programming)<br>
-Index of freely available resources in parallel programming.
+List of freely available resources in parallel programming.
 - [Julia for HPC](https://jblaschke.github.io/HPC-Julia/)<br>
 Collection of Julia examples in parallel programming, including multi-threading, MPI, GPU, etc.
 - [Modern Julia Workflows](https://modernjuliaworkflows.org/)<br>

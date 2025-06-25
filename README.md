@@ -1,8 +1,8 @@
 # Learning Resources
 
 Repository containing a curated list of free online resources in the topics of
-- [Computational Fluid Dynamics & Numerical Methods](#computational-fluid-dynamics)
-- [Machine Learning](#machine-learning)
+- [Computational Fluid Dynamics & Numerical Methods](#computational-fluid-dynamics--numerical-methods)
+- [Machine Learning & Optimization](#machine-learning--optimization)
 - [Programming & High-Performance Computing](#programming--high-performance-computing)
 - [Scientific Writing](#scientific-writing)
 

@@ -26,7 +26,7 @@ Webpage explaining fundamental concepts of wall modelling.
 - [What-Is](https://github.com/higham/what-is)<br>
 Collection of articles explaining concepts of numerical analysis including matrix factorizations, floating point operations, etc.
 
-## Machine Learning
+## Machine Learning & Optimization
 - [Free Programming Books: Machine Learning](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#machine-learning)<br>
 List of freely available resources in machine learning.
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)<br>
@@ -39,6 +39,8 @@ List of awesome machine learning technical blogs from research to deployment
 Book on general machine learning concepts, from linear algebra to optimization.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) | [\[PDF version\]](https://github.com/antonvladyka/neuralnetworksanddeeplearning.com.pdf)<br>
 Online book on deep learning.
+- [Inverse problems](https://tristanvanleeuwen.github.io/IP_and_Im_Lectures/intro.html)</br>
+Online lectures on inverse problems and imaging.
 
 
 ## Programming & High-Performance Computing

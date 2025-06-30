@@ -25,6 +25,8 @@ Curated list of learning resources (videos, slides, code) for general CFD topics
 Webpage explaining fundamental concepts of wall modelling.
 - [What-Is](https://github.com/higham/what-is)<br>
 Collection of articles explaining concepts of numerical analysis including matrix factorizations, floating point operations, etc.
+- [Fundamentals of Numerical Computation](https://fncbook.com/)<br>
+Interactive online book covering the fundamentals of numerical linear algebra and differential equations using Jupyter notebooks and Julia.
 
 ## Machine Learning & Optimization
 - [Free Programming Books: Machine Learning](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#machine-learning)<br>

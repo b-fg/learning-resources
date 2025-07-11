@@ -43,6 +43,8 @@ Book on general machine learning concepts, from linear algebra to optimization.
 Online book on deep learning.
 - [Inverse problems](https://tristanvanleeuwen.github.io/IP_and_Im_Lectures/intro.html)</br>
 Online lectures on inverse problems and imaging.
+- [Kalman and Bayesian filters](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)</br>
+Kalman Filter book using Jupyter Notebook.
 
 
 ## Programming & High-Performance Computing

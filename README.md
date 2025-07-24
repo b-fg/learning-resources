@@ -15,6 +15,8 @@ Tutorial on how to build a Navier–Stokes solver using finite differences in 12
 Webpage on Prandtl boundary layer theory, and the analytical solution from Blasius (Prandtl's PhD student).
 - [Fluid Mechanics 101](https://www.youtube.com/@fluidmechanics101)<br>
 YouTube channel on general fluid mechanics.
+- [Fundamentals of Numerical Computation](https://fncbook.com/)<br>
+Interactive online book covering the fundamentals of numerical linear algebra and differential equations using Jupyter notebooks and Julia.
 - [Notes on CFD: General Principles](https://doc.cfd.direct/notes/cfd-general-principles/)<br>
 Online book on general CFD including governing equations, numerical methods, linear solvers, turbulence modelling, etc.
 - [Riemann Problems and Jupyter Solutions](https://www.clawpack.org/riemann_book/html/Index.html)<br>
@@ -25,14 +27,18 @@ Curated list of learning resources (videos, slides, code) for general CFD topics
 Webpage explaining fundamental concepts of wall modelling.
 - [What-Is](https://github.com/higham/what-is)<br>
 Collection of articles explaining concepts of numerical analysis including matrix factorizations, floating point operations, etc.
-- [Fundamentals of Numerical Computation](https://fncbook.com/)<br>
-Interactive online book covering the fundamentals of numerical linear algebra and differential equations using Jupyter notebooks and Julia.
 
 ## Machine Learning & Optimization
+- [Automatic Differentiation and its Efficient Implementation](https://arxiv.org/abs/1811.05031)<br>
+Review paper on automatic differentiation.
 - [Free Programming Books: Machine Learning](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#machine-learning)<br>
 List of freely available resources in machine learning.
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)<br>
 Website providing visual explanations of fundamental concepts in statistics, machine learning, and optimization.
+- [Inverse problems](https://tristanvanleeuwen.github.io/IP_and_Im_Lectures/intro.html)</br>
+Online lectures on inverse problems and imaging.
+- [Kalman and Bayesian filters](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)</br>
+Kalman Filter book using Jupyter Notebook.
 - [Machine learning from scratch in Julia](https://github.com/odsl-team/julia-ml-from-scratch)<br>
 Tutorial on implementing an artificial neural network from scratch in Julia, including gradient descent and automatic differentiation.
 - [Machine learning technical blogs](https://github.com/antoinebrl/awesome-ml-blogs)<br>
@@ -41,11 +47,6 @@ List of awesome machine learning technical blogs from research to deployment
 Book on general machine learning concepts, from linear algebra to optimization.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) | [\[PDF version\]](https://github.com/antonvladyka/neuralnetworksanddeeplearning.com.pdf)<br>
 Online book on deep learning.
-- [Inverse problems](https://tristanvanleeuwen.github.io/IP_and_Im_Lectures/intro.html)</br>
-Online lectures on inverse problems and imaging.
-- [Kalman and Bayesian filters](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)</br>
-Kalman Filter book using Jupyter Notebook.
-
 
 ## Programming & High-Performance Computing
 - [Computer Science Readings](https://github.com/amilajack/reading)<br>
@@ -72,11 +73,12 @@ Workshop for Julia newcomers.
 Tips on scientific writing, from style and formatting to best practices in publishing preprint and scientific articles.
 - [Latex Advice](https://github.com/dspinellis/latex-advice)<br>
 How to write efficient, readable and maintainable LaTeX source code.
+- [quarto](https://quarto.org/docs/presentations/revealjs/)<br>
+Presentation tools.
 - [Writing a scientific article](https://doi.org/10.1016/j.eurger.2015.08.005)<br>
 Article on how to write a scientific article: A step-by-step guide for beginners.
 - [Zotero introduction](https://aweymo-ui.github.io/zotero_intro/)<br>
 Introductory guide to using the citation manager Zotero.
-- [zotero](https://www.zotero.org/), [zbib](https://zbib.org/), [doi2bib](https://www.doi2bib.org/)<br>
+- [Zotero](https://www.zotero.org/), [zbib](https://zbib.org/), [doi2bib](https://www.doi2bib.org/)<br>
 Bibliography tools.
-- [quarto](https://quarto.org/docs/presentations/revealjs/)<br>
-Presentation tools.
+
